@@ -1,4 +1,4 @@
-<img src='![동화마을](https://github.com/seonghwan705/backend_1/assets/132699525/56a571d1-36a0-4e7f-b86a-41c43e4438c2)' width=300 height=200> </img>
+<img src='![동화마을](https://github.com/seonghwan705/backend_1/assets/132699525/56a571d1-36a0-4e7f-b86a-41c43e4438c2)' </img>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=seonghwan705)](https://github.com/seonghwan705)
 
